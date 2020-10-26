@@ -1,0 +1,41 @@
+#titleh2 {
+    text-align: center;
+    font-family: "Passion One";
+    color: olivedrab;
+    font-weight: bold;
+    background-color: burlywood;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+body {
+    background-image: url('stars.jpg');
+}
+
+legend {
+    background-color: burlywood;
+    color: olivedrab;
+    font-family: "Passion One";
+    padding-left: 50px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    
+    
+}
+
+label {
+    color: burlywood;
+}
+
+table {
+    background-color: burlywood;
+}
+
+th {
+    color: olivedrab;
+}
+
+#submit {
+    background-color: burlywood;
+    color: olivedrab;
+}
